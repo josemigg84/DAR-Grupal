@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DAR-Grupal/static/css/main.8b9a5fa4.css",
+    "main.js": "/DAR-Grupal/static/js/main.c7db6cb8.js",
+    "static/js/787.a070bd6b.chunk.js": "/DAR-Grupal/static/js/787.a070bd6b.chunk.js",
+    "static/media/logo.svg": "/DAR-Grupal/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/DAR-Grupal/index.html",
+    "main.8b9a5fa4.css.map": "/DAR-Grupal/static/css/main.8b9a5fa4.css.map",
+    "main.c7db6cb8.js.map": "/DAR-Grupal/static/js/main.c7db6cb8.js.map",
+    "787.a070bd6b.chunk.js.map": "/DAR-Grupal/static/js/787.a070bd6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b9a5fa4.css",
+    "static/js/main.c7db6cb8.js"
+  ]
+}
