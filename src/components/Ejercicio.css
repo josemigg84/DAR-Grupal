@@ -1,0 +1,28 @@
+/* Ejercicio.css */
+.fondo {
+  padding: 0px;
+  background-image: url('./logo.svg');
+  background-size: 40% 40%;  
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 83vh;
+  margin: 0;
+}
+
+.rectExt {
+    margin-bottom: 20px;
+}
+  
+.rectInt {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.resultado {
+  padding-top: 10px;
+  color: blue;
+}
+
+h2 {
+  padding-top: 5px;
+}
