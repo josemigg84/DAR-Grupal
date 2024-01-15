@@ -1,11 +1,11 @@
 // components/Navigation.js
-import React from 'react';
-import NavItem from './NavItem';
-import './Navigation.css';
+import React from "react";
+import NavItem from "./NavItem";
+import "./Navigation.css";
 
 const Navigation = () => {
   return (
-    <nav className='sidebar'>
+    <nav className="sidebar">
       <ul>
         <NavItem to="/">Inicio</NavItem>
         <NavItem to="/Ejercicio1">Ejercicio 1</NavItem>
@@ -19,4 +19,3 @@ const Navigation = () => {
 };
 
 export default Navigation;
-

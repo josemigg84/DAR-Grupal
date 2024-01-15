@@ -1,25 +1,52 @@
-body { font: 13px Arial, Helvetica, sans-serif; }
-h2 { margin-bottom: 0; font-size: 1.2em; }
-#recurso, #enviar { padding: .3em; font-size: 1.2em; }
-#principal { float: left; width: 70%; }
-#secundario { float: right; width: 25%; }
-.con, .est, .cab, .cod {
-    border: 2px solid #CCC;
-    background: #FAFAFA;
-    padding: 1em;
-    white-space: pre;
+body {
+  font: 13px Arial, Helvetica, sans-serif;
+}
+h2 {
+  margin-bottom: 0;
+  font-size: 1.2em;
+}
+#recurso,
+#enviar {
+  padding: 0.3em;
+  font-size: 1.2em;
+}
+#principal {
+  float: left;
+  width: 70%;
+}
+#secundario {
+  float: right;
+  width: 25%;
+}
+.con,
+.est,
+.cab,
+.cod {
+  border: 2px solid #ccc;
+  background: #fafafa;
+  padding: 1em;
+  white-space: pre;
 }
 .con {
-    max-width: 100;
-    min-height: 350px;
-    max-height: 400px;
-    overflow: scroll;
-    white-space: pre-wrap;
-    font-size: 1em;
+  max-width: 100;
+  min-height: 350px;
+  max-height: 400px;
+  overflow: scroll;
+  white-space: pre-wrap;
+  font-size: 1em;
 }
-.est { min-height: 70px; font-size: 1.2em;}
-.cab { min-height: 70px; font-size: 1.2em;}
-.cod { min-height: 40px; font-size: 1.2em;}
+.est {
+  min-height: 70px;
+  font-size: 1.2em;
+}
+.cab {
+  min-height: 70px;
+  font-size: 1.2em;
+}
+.cod {
+  min-height: 40px;
+  font-size: 1.2em;
+}
 .fondo2 {
-    min-height: 83vh;
+  min-height: 83vh;
 }
